@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kynzo-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/kynzo-s-digital-garden/","tags":["gardenEntry"],"created":"2025-11-13T22:08:23.494+01:00","updated":"2025-11-13T22:13:30.860+01:00"}
 ---
 
 So this is my super duper awesome digital garden to share my obsidian notes on :D
