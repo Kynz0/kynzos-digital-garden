@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/privacy/","created":"2025-11-23T06:53:13.324+01:00","updated":"2025-11-23T07:55:56.250+01:00"}
+{"dg-publish":true,"permalink":"/privacy/","created":"2025-11-23T06:53:13.324+01:00","updated":"2025-11-25T02:50:28.904+01:00"}
 ---
 
 # Why does it even matter?
@@ -26,16 +26,16 @@ Let's start with what the majority of people is willing to do. This is quite sub
 - Password manager - We both know that you have the same password in almost antything... I get it why make it complicated for yourself? Well I have the solution for you! Password managers mean you only need one password and it remembers and even creates all the other ones for you. You then have a extension/app that autofills it for you. My favorite is Bitwarden but there are many great selfhosted and cloud password managers so just find the one that suits you.
 - 2 factor auth - I know I know it's annoying but it really isn't that hard and drastically improves your privacy. My recommendation as of now is [Ente auth](https://ente.io/auth/) it is free and has cloud sync.
 - Diversify - It is convenient to have one company handle everything for you, ehrm ehrm Google.. but by doing that you put all your trust in one company and there isn't any company that you should put this much trust into. That is why I don't like [Proton](https://proton.me/) much anymore.
-- Find alternatives - There is really good and often better alternatives to the things that you currently use that are way more private or even opensource. Try to focus on finding either opensource or eu based things (eu has much stricter privacy laws like the [gdpr](https://gdpr-info.eu/))
+- [[How to find good alternatives\|Find alternatives]] - There is really good and often better alternatives to the things that you currently use that are way more private or even opensource. Try to focus on finding either opensource or eu based things (eu has much stricter privacy laws like the [gdpr](https://gdpr-info.eu/))
 ## Go all in
 Once you start getting into it there's no turning back. Don't be afraid of these just because they are labeled as the hardest on this list. I still think that with the right mindset these shouldn't impact a man's life much (women too of course :D)
 - [[Linux\|Linux]] - I know I know buzz word! I personally like Linux but I don't think it is perfect, far from it in fact. But the thing is if you care about your privacy there just isn't a better alternative right now. It isn't more complicated it is just different.
 - Custom ROM - reinstalling the stock OS on a phone is quite hard for most people but it isn't impossible depending on your phone. Next time you buy a phone maybe focus on that.
-- Selfhost - Cloud is just a fancy word for your data being on someone else's computer. It is't that hard to get into if you just by a NAS with some solid stock OS that handles stuff for you.
+- [[Selfhosting\|Selfhosting]] - Cloud is just a fancy word for your data being on someone else's computer. It is't that hard to get into if you just by a NAS with some solid stock OS that handles stuff for you.
 - Research - Just do basic research about the stuff you use, does it feel too good to be true? It probably is. If it's free you are the product. (Many huge companies make most there money of your data)
 
 ## How to go about all this
 This is all very overwhelming especially if you didn't even to anything from the [[Privacy#No impact/effort\|step one]].
 My advice and how I am handling this:
 1. I follow two main rules. under no circumstances I don't start using anything "bad" going forward
-2. I slowly systematically get rid of all the "bad" things I use, even after years of focusing more and more on my privacy I still use Gmail for example, I have a plan to get rid of it but I just haven't got to it yet. The intent is what matters here.
+2. I slowly systematically get rid of all the "bad" things I use, even after years of focusing more and more on my privacy I still use Gmail for example, I have a plan to get rid of it but I just haven't got to it yet. The intent is what matters here. So if you were to believe in anything i said, then it is okay that you are using many bad things right now, it is not okay to live with the idea that you will be using them forever (windows, google and so on)
