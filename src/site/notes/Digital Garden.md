@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","created":"2025-11-13T23:18:21.104+01:00","updated":"2025-11-13T23:26:40.442+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","created":"2025-11-13T23:18:21.104+01:00","updated":"2025-12-03T17:45:48.206+01:00"}
 ---
 
-A plugin for [[Obsidian\|Obsidian]] to publish notes easily.
+A plugin for [[Obsidian\|Obsidian]] to publish notes easily and for free.
 
 I've used [this guide](https://dg-docs.ole.dev/getting-started/01-getting-started/) to set it up.
 The only extra thing I did was add a custom domain into Vercel:
