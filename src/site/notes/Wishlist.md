@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2025-12-26T18:23:19.899+01:00"}
+{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2025-12-26T19:48:11.689+01:00"}
 ---
 
 This is a list of things that kynzo would like to own one day :D
@@ -14,3 +14,6 @@ This is a list of things that kynzo would like to own one day :D
 - A good old but still powerful reliable ThinkPad (probably a second hand T480 with a i5-i7 8th gen cpu)
 - [Phasmophobia music box](https://themusicbox.store/products/phasmophobia-music-box?variant=42662291963952)
 - Pins, so many [[Pins that I'd like to own one day\|pins]].
+- [DRG board game with all the expansions](https://moodpublishing.com/collections/deep-rock-galactic)
+- [The Smith Blade](https://www.kickstarter.com/projects/hacksmith/the-smith-blade-21-in-1-titanium-multi-tool/)
+- [Covert Companion Pro](https://covertinstruments.com/products/covert-companion-pro)
