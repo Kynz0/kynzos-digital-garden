@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/privacy/","created":"2025-11-23T06:53:13.324+01:00","updated":"2025-11-25T02:50:28.904+01:00"}
+{"dg-publish":true,"permalink":"/privacy/","created":"2025-11-23T06:53:13.324+01:00","updated":"2025-12-27T09:35:24.475+01:00"}
 ---
 
 # Why does it even matter?
