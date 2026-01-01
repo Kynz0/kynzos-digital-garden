@@ -8,6 +8,7 @@
 # Who is kynzo
 Welp **I** am a subjectively weird 19 year old (born 2006) guy that was born and as of 2025 still lives in Czech republic. More on me here: [[kynzo\|kynzo]].
 # Recent notes:
+- [[2025 and my thoughts on it\|2025 and my thoughts on it]] - January 01 2026
 - [[Linux\|Linux]] - December 26 2025
 - [[Pins that I'd like to own one day\|Pins that I'd like to own one day]] - December 26 2025
 - [[Wishlist\|Wishlist]] - December 03 2025
