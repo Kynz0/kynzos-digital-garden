@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/kynzo-s-digital-garden/","tags":["gardenEntry"],"created":"2025-11-13T22:08:23.494+01:00","updated":"2026-01-01T01:54:19.196+01:00"}
+{"dg-publish":true,"permalink":"/kynzo-s-digital-garden/","tags":["gardenEntry"],"created":"2025-11-13T22:08:23.494+01:00","updated":"2026-01-01T02:39:03.721+01:00"}
 ---
 
 # What is a digital garden?
 [[Digital Garden\|Digital Garden]] is a plugin for [[Obsidian\|Obsidian]] that allows me to easily choose notes from my vault that I want to publish on this website.
 
 # Who is kynzo
-Welp **I** am a subjectively weird 19 year old (born 2006) guy that was born and as of 2025 still lives in Czech republic. More on me here: [[kynzo\|kynzo]].
+Welp **I** am a subjectively weird at the time of writing this 19 year old (born 2006) guy that was born and as of 2025 still lives in Czech republic. More on me here: [[kynzo\|kynzo]].
 # Recent notes:
 - [[2025 and my thoughts on it\|2025 and my thoughts on it]] - January 01 2026
 - [[Linux\|Linux]] - December 26 2025

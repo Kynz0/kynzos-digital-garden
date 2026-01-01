@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/syncthing/","created":"2025-11-13T23:04:06.610+01:00","updated":"2026-01-01T01:39:06.735+01:00"}
+{"dg-publish":true,"permalink":"/syncthing/","created":"2025-11-13T23:04:06.610+01:00","updated":"2026-01-01T02:40:29.408+01:00"}
 ---
 
 [Syncthing](https://syncthing.net/) is a FOSS peer-to-peer file synchronization utility and I'm using it to sync my [[Obsidian\|Obsidian]] notes between my pc and my phone.
@@ -20,3 +20,4 @@
 - Click the QR icon right to the ID field to scan the QR code from the pc
 - Accept the folder and place it somewhere (e.g. Documents)
 - Open Obsidian and select the local folder
+- If it is inconsistent then enable it in the battery settings so it can run whenever

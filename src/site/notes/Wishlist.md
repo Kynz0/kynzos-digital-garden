@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2026-01-01T02:34:36.886+01:00"}
+{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2026-01-01T02:37:42.596+01:00"}
 ---
 
 This is a list of things that [[kynzo\|kynzo]] would like to own one day :D
