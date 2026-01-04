@@ -8,6 +8,8 @@
 # Who is kynzo
 Welp **I** am a subjectively weird at the time of writing this 19 year old (born 2006) guy that was born and as of 2025 still lives in Czech republic. More on me here: [[kynzo\|kynzo]].
 # Recent notes:
+- [[Lessons/Czech/Hedy programování\|Hedy programování]] - January 04 2026
+- [[Lessons/English/Hedy programming\|Hedy programming]] - January 04 2026
 - [[Lessons/Lekce\|Lekce]] - January 01 2026
 - [[Lessons/Lessons\|Lessons]] - January 01 2026
 - [[2025 and my thoughts on it\|2025 and my thoughts on it]] - January 01 2026

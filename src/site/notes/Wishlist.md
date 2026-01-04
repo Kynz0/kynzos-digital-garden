@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2026-01-01T02:37:42.596+01:00"}
+{"dg-publish":true,"permalink":"/wishlist/","created":"2025-12-03T17:47:03.749+01:00","updated":"2026-01-02T18:30:15.106+01:00"}
 ---
 
 This is a list of things that [[kynzo\|kynzo]] would like to own one day :D
@@ -19,6 +19,7 @@ This is a list of things that [[kynzo\|kynzo]] would like to own one day :D
 - Some open hardware laptop
 	- https://www.crowdsupply.com/mnt/mnt-reform-next
 	- A [[Framework\|Framework]] laptop, not sure which one yet (This is more of a long-term wish, in the near future I plan to own and use a ThinkPad) - not openhardware but closer then most other options
+---
 # [[Buy it for Life\|Buy it for Life]] list:
 - Lots of jars of some kind
 	- [Weck jars](https://weckjars.com/) German jar company, produces jars since 1900 [source](https://lemmy.world/post/33363071)
