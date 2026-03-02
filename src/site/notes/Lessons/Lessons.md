@@ -4,6 +4,7 @@
 
 Here are the lessons I've created for my work:
 - [[Lessons/English/Hedy programming\|Hedy programming]]
+- [[Lessons/English/Shark tank\|Shark tank]]
 
 { .block-language-dataview}
 Feel free to use them for whatever you desire, just don't forget to credit me please :D
